@@ -1,4 +1,4 @@
-### Deployed here 
+### Live here 
 https://spam-classifier-mrdn.onrender.com/
 
 # SmS_Spam_Classifier
@@ -28,20 +28,12 @@ Certainly, here are the step-by-step instructions for setting up and running the
    -go to this website: https://dashboard.render.com/web
    -then click on new and choose web serivces
    -choose this :Build and deploy from a Git repository and click on next
-   -then in settings :![image](https://github.com/MasteriNeuron/Spam-Classifier/assets/127201746/7d0493d1-7e0a-46cb-b15e-e3f45f006d1d)
+   -then in settings.
 
 
 6. **So click on manual Deploy and select deploy with latest commit**
    -and wait 2-3 mint after that your website will be published.
-   -https://spam-classifier-d15y.onrender.com/
 
-   ![image](https://github.com/MasteriNeuron/Spam-Classifier/assets/127201746/844642ad-2c2d-4ede-88ca-cd19206cf233)
-
-   The output:
-   ![image](https://github.com/MasteriNeuron/Spam-Classifier/assets/127201746/df102d55-1e43-482f-b283-c89154a51169)
-
-
-   
 
  
 
